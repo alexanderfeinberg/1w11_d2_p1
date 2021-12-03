@@ -1,5 +1,5 @@
 {
-  "name": "combining-express-sql-short-practice",
+  "name": "combining-express-sequelize-short-practice",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",

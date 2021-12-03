@@ -119,7 +119,7 @@ Add a variable `DB_FILE` with a value of `db/dev.db`. This will be the location
 that the **SQLITE** database will be created in (as was specified in 
 __config/database.js__).
 
-This file may grow in the future in order to accomodate any other environment 
+This file may grow in the future in order to accommodate any other environment 
 variables needed by the server.
 
 
